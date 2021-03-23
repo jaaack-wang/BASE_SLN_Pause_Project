@@ -1,4 +1,4 @@
-# This script is originally made up of several separate scripts that were causally written, which deals with mainly the following tasks:
+# This script is originally made up of several separate scripts that were causally written, which deals with the following four tasks:
 # 1. replace all the BASE tags (e.g., <u>, </u>, <pause>) plus filled pauses (denoted by '#') with an unique placeholder (I made it “空”)；
 # 2. POS tag the processed texts that contain placeholders;
 # 3. replace the placeholders back with their original tags;
@@ -13,7 +13,7 @@
 
 
 # 2. POS tag the processed texts that contain placeholders
-# The original script for this task was aso lost, but the POS tagging function was built something like this:
+# The original script for this task was also lost, but the POS tagging function was built something like this:
 
 
 import re
