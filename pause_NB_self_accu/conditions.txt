@@ -1,0 +1,7 @@
+cond1	['duration', 'Left_first', 'Right_first', 'Left_second', 'Right_second', 'Left_third', 'Right_third']
+cond2	['Left_first', 'Right_first', 'Left_second', 'Right_second', 'Left_third', 'Right_third']
+cond3	['Left_first', 'Right_first', 'Left_second', 'Right_second']
+cond4	['Left_first', 'Right_first']
+cond5	['Left_first, word', 'Right_first, word', 'Left_second, word', 'Right_second, word']
+cond6	['Right_first, pos', 'Left_first, pos', 'Left_second, pos', 'Right_second, pos']
+cond7	['Left_first, word', 'Right_first, pos', 'Left_second, pos', 'Right_second, word']
